@@ -6,13 +6,13 @@
 这块板子可以使用Mind+进行编程，且是支持图形化和Python的，对于我这种给刚打算法没多久不怎么熟练c++的新手小白特别友好
 
 在京东看了一下应该是这个板子(这里不打广告)
-[!images](https://github.com/r1ng0rez/UNIHIKER-Learning/blob/main/images/Weixin%20Image_2025-06-28_093433_743.jpg)
+![images](https://github.com/r1ng0rez/UNIHIKER-Learning/blob/main/images/Weixin%20Image_2025-06-28_093433_743.jpg)
 
 ## 相关：
 
 大概长这样子(不是故意露出咸猪手)
-[!images](https://github.com/r1ng0rez/UNIHIKER-Learning/blob/main/images/Weixin%20Image_2025-06-28_093225_892.jpg)
+![images](https://github.com/r1ng0rez/UNIHIKER-Learning/blob/main/images/Weixin%20Image_2025-06-28_093225_892.jpg)
 
-[!images](https://github.com/r1ng0rez/UNIHIKER-Learning/blob/main/images/Weixin%20Image_2025-06-28_093221_314.jpg)
+![images](https://github.com/r1ng0rez/UNIHIKER-Learning/blob/main/images/Weixin%20Image_2025-06-28_093221_314.jpg)
 
 
